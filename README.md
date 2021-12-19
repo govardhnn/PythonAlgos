@@ -1,5 +1,5 @@
 
-Algorithm
+## Algorithm
 
 
 In mathematics and computer science, an algorithm is a sequence of instructions, typically to solve a class of problems or perform a computation.
